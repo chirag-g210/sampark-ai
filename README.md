@@ -1,9 +1,48 @@
-## 🚧 About Sampark
+## 🚀 About Sampark AI
 
-**Sampark** is an AI-powered chat application currently under development, built using the **Google Gemini Pro API**. The goal of this project is to provide users with fast, accurate, and intelligent AI-powered conversations through a clean and user-friendly interface.
+**Sampark AI** is a modern AI-powered chatbot built using the **Google Gemini API**. The project is designed to deliver fast, intelligent, and context-aware conversations through a clean, responsive, and user-friendly interface.
 
-At the moment, the project includes the core AI response generation functionality, while several features and UI enhancements are still being developed.
+Currently, the application supports real-time AI response generation and is being actively developed with new features and performance improvements.
 
-Simply enter your query into the input field and click **Generate Response**. Sampark sends your request to the Gemini AI model and returns a context-aware response in real time.
+### ✨ Current Features
 
-> **⚠️ Project Status:** This project is currently **Work in Progress (WIP)**. New features, UI improvements, and optimizations are being added regularly.
+- 🤖 AI-powered conversations using Google Gemini API
+- ⚡ Fast and real-time response generation
+- 🎨 Responsive UI with Tailwind CSS
+- 📱 Mobile-friendly design
+- 🔥 Clean and modern interface
+- 📦 Organized project structure
+- 🚀 Continuous development and improvements
+
+### 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- Google Gemini API
+- Babel
+- PostCSS
+
+### 📌 Upcoming Features
+
+- 💬 Chat history
+- 🌙 Dark/Light mode
+- 📋 Copy response button
+- 📁 Export chats
+- 🎤 Voice input
+- 🔊 Text-to-Speech
+- 🌐 Multi-language support
+- ⚙️ Better UI & animations
+
+> **🚧 Project Status:** This project is currently under active development (Work in Progress). New features, UI enhancements, and performance optimizations are being added regularly.
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome. Feel free to fork the repository, create a new branch, and submit a pull request.
+
+---
+
+## 👨‍💻 Made with ❤️ by **Chirag Gupta**
